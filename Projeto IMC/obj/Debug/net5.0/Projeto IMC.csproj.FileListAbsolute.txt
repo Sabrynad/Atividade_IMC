@@ -1,0 +1,16 @@
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\bin\Debug\net5.0\Projeto IMC.exe
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\bin\Debug\net5.0\Projeto IMC.deps.json
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\bin\Debug\net5.0\Projeto IMC.runtimeconfig.json
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\bin\Debug\net5.0\Projeto IMC.runtimeconfig.dev.json
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\bin\Debug\net5.0\Projeto IMC.dll
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\bin\Debug\net5.0\Projeto IMC.pdb
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\obj\Debug\net5.0\Projeto IMC.csproj.AssemblyReference.cache
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\obj\Debug\net5.0\Projeto IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\obj\Debug\net5.0\Projeto IMC.AssemblyInfoInputs.cache
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\obj\Debug\net5.0\Projeto IMC.AssemblyInfo.cs
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\obj\Debug\net5.0\Projeto IMC.csproj.CoreCompileInputs.cache
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\obj\Debug\net5.0\Projeto IMC.dll
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\obj\Debug\net5.0\refint\Projeto IMC.dll
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\obj\Debug\net5.0\Projeto IMC.pdb
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\obj\Debug\net5.0\Projeto IMC.genruntimeconfig.cache
+C:\Users\Generation\Documents\atividade C#\Lista 2\Projeto IMC\Projeto IMC\obj\Debug\net5.0\ref\Projeto IMC.dll
