@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Generation\\Documents\\atividade C#\\Lista 2\\Projeto IMC\\Projeto IMC\\Projeto IMC.csproj",
+      "projectUniqueName": "C:\\Users\\Generation\\Documents\\atividade\\Lista 2\\Projeto IMC\\Projeto IMC\\Projeto IMC.csproj",
       "projectName": "Projeto IMC",
-      "projectPath": "C:\\Users\\Generation\\Documents\\atividade C#\\Lista 2\\Projeto IMC\\Projeto IMC\\Projeto IMC.csproj",
+      "projectPath": "C:\\Users\\Generation\\Documents\\atividade\\Lista 2\\Projeto IMC\\Projeto IMC\\Projeto IMC.csproj",
       "packagesPath": "C:\\Users\\Generation\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Generation\\Documents\\atividade C#\\Lista 2\\Projeto IMC\\Projeto IMC\\obj\\",
+      "outputPath": "C:\\Users\\Generation\\Documents\\atividade\\Lista 2\\Projeto IMC\\Projeto IMC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Generation\\AppData\\Roaming\\NuGet\\NuGet.Config",
